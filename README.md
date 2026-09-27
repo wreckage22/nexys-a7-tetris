@@ -1,4 +1,6 @@
-# FPGA Hardware-Accelerated Tetris
+![Tetris FPGA Demo](assets/tetris.gif)
+# FPGA Hardware-Accelerated Tetris 
+
 
 A complete hardware/software co-design implementing Tetris on a Xilinx Artix-7 FPGA (Digilent Nexys A7). Features a MicroBlaze soft-core processor, a custom SystemVerilog VGA display pipeline, dual-port BRAM memory mapping, and software-level rendering optimizations.
 
